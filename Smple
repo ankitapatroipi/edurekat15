@@ -1,5 +1,5 @@
-a=2
-b=2
+a=6
+b=8
 print "sum of number " a+b
 
 
